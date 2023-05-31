@@ -1,4 +1,4 @@
-import { FormatoData } from "../types/FormatoData.js";
+import { FormatoData } from "../enum/FormatoData.js";
 /**
  * Formata um valor para o padrão de moeda brasileiro.
  * @param valor         Valor a ser formatado.

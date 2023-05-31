@@ -1,4 +1,4 @@
-import { TipoTransacao } from "./TipoTransacao.js";
+import { TipoTransacao } from "../enum/TipoTransacao";
 
 export type Transacao = {
     tipo: TipoTransacao;

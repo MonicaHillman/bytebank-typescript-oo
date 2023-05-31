@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "typescript": "^4.2.2"
+  },
+  "name": "formacao-typescript-projeto-curso-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonatanjacinto/formacao-typescript-projeto-curso-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonatanjacinto/formacao-typescript-projeto-curso-01/issues"
+  },
+  "homepage": "https://github.com/jhonatanjacinto/formacao-typescript-projeto-curso-01#readme",
+  "description": ""
+}
